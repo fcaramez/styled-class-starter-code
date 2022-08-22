@@ -5,6 +5,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { ChakraProvider } from "@chakra-ui/react";
 import { extendTheme } from "@chakra-ui/react";
+import "react-toastify/dist/ReactToastify.css";
 
 const config = {
   initialColorMode: "dark",
